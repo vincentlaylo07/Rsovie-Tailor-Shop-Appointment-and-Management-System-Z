@@ -1,0 +1,41 @@
+C:\Users\Windows 10\Desktop\Rsovie Tailor Shop Appointment and Management System Z\obj\Debug\net6.0-windows\Rsovie Tailor Shop Appointment and Management System Z.csproj.AssemblyReference.cache
+C:\Users\Windows 10\Desktop\Rsovie Tailor Shop Appointment and Management System Z\obj\Debug\net6.0-windows\Rsovie_Tailor_Shop_Appointment_and_Management_System_Z.Properties.Resources.resources
+C:\Users\Windows 10\Desktop\Rsovie Tailor Shop Appointment and Management System Z\obj\Debug\net6.0-windows\Rsovie_Tailor_Shop_Appointment_and_Management_System_Z.SplashScreen.resources
+C:\Users\Windows 10\Desktop\Rsovie Tailor Shop Appointment and Management System Z\obj\Debug\net6.0-windows\Rsovie Tailor Shop Appointment and Management System Z.csproj.GenerateResource.cache
+C:\Users\Windows 10\Desktop\Rsovie Tailor Shop Appointment and Management System Z\obj\Debug\net6.0-windows\Rsovie Tailor Shop Appointment and Management System Z.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows 10\Desktop\Rsovie Tailor Shop Appointment and Management System Z\obj\Debug\net6.0-windows\Rsovie Tailor Shop Appointment and Management System Z.AssemblyInfoInputs.cache
+C:\Users\Windows 10\Desktop\Rsovie Tailor Shop Appointment and Management System Z\obj\Debug\net6.0-windows\Rsovie Tailor Shop Appointment and Management System Z.AssemblyInfo.cs
+C:\Users\Windows 10\Desktop\Rsovie Tailor Shop Appointment and Management System Z\obj\Debug\net6.0-windows\Rsovie Tailor Shop Appointment and Management System Z.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Desktop\Rsovie Tailor Shop Appointment and Management System Z\bin\Debug\net6.0-windows\Rsovie Tailor Shop Appointment and Management System Z.exe
+C:\Users\Windows 10\Desktop\Rsovie Tailor Shop Appointment and Management System Z\bin\Debug\net6.0-windows\Rsovie Tailor Shop Appointment and Management System Z.deps.json
+C:\Users\Windows 10\Desktop\Rsovie Tailor Shop Appointment and Management System Z\bin\Debug\net6.0-windows\Rsovie Tailor Shop Appointment and Management System Z.runtimeconfig.json
+C:\Users\Windows 10\Desktop\Rsovie Tailor Shop Appointment and Management System Z\bin\Debug\net6.0-windows\Rsovie Tailor Shop Appointment and Management System Z.dll
+C:\Users\Windows 10\Desktop\Rsovie Tailor Shop Appointment and Management System Z\bin\Debug\net6.0-windows\Rsovie Tailor Shop Appointment and Management System Z.pdb
+C:\Users\Windows 10\Desktop\Rsovie Tailor Shop Appointment and Management System Z\bin\Debug\net6.0-windows\CircularProgressBar_NET5.dll
+C:\Users\Windows 10\Desktop\Rsovie Tailor Shop Appointment and Management System Z\bin\Debug\net6.0-windows\WinFormAnimation_NET5.dll
+C:\Users\Windows 10\Desktop\Rsovie Tailor Shop Appointment and Management System Z\obj\Debug\net6.0-windows\Rsovie Tailor Shop Appointment and Management System Z.csproj.CopyComplete
+C:\Users\Windows 10\Desktop\Rsovie Tailor Shop Appointment and Management System Z\obj\Debug\net6.0-windows\Rsovie Tailor Shop Appointment and Management System Z.dll
+C:\Users\Windows 10\Desktop\Rsovie Tailor Shop Appointment and Management System Z\obj\Debug\net6.0-windows\refint\Rsovie Tailor Shop Appointment and Management System Z.dll
+C:\Users\Windows 10\Desktop\Rsovie Tailor Shop Appointment and Management System Z\obj\Debug\net6.0-windows\Rsovie Tailor Shop Appointment and Management System Z.pdb
+C:\Users\Windows 10\Desktop\Rsovie Tailor Shop Appointment and Management System Z\obj\Debug\net6.0-windows\Rsovie Tailor Shop Appointment and Management System Z.genruntimeconfig.cache
+C:\Users\Windows 10\Desktop\Rsovie Tailor Shop Appointment and Management System Z\obj\Debug\net6.0-windows\ref\Rsovie Tailor Shop Appointment and Management System Z.dll
+C:\Users\Windows 10\Desktop\Rsovie Tailor Shop Appointment and Management System Z\obj\Debug\net6.0-windows\Rsovie_Tailor_Shop_Appointment_and_Management_System_Z.MainForms.ChoiceForm.resources
+C:\Users\Windows 10\Desktop\Rsovie Tailor Shop Appointment and Management System Z\obj\Debug\net6.0-windows\Rsovie_Tailor_Shop_Appointment_and_Management_System_Z.MainForms.AdminLoginForm.resources
+C:\Users\Windows 10\Desktop\Rsovie Tailor Shop Appointment and Management System Z\bin\Debug\net6.0-windows\Rsovie Tailor Shop Appointment and Management System Z.dll.config
+C:\Users\Windows 10\Desktop\Rsovie Tailor Shop Appointment and Management System Z\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Windows 10\Desktop\Rsovie Tailor Shop Appointment and Management System Z\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Windows 10\Desktop\Rsovie Tailor Shop Appointment and Management System Z\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Windows 10\Desktop\Rsovie Tailor Shop Appointment and Management System Z\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Windows 10\Desktop\Rsovie Tailor Shop Appointment and Management System Z\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Windows 10\Desktop\Rsovie Tailor Shop Appointment and Management System Z\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Windows 10\Desktop\Rsovie Tailor Shop Appointment and Management System Z\obj\Debug\net6.0-windows\Rsovie_Tailor_Shop_Appointment_and_Management_System_Z.MainForms.AppointmentForm.resources
+C:\Users\Windows 10\Desktop\Rsovie Tailor Shop Appointment and Management System Z\obj\Debug\net6.0-windows\Rsovie_Tailor_Shop_Appointment_and_Management_System_Z.MainForms.ErrorHandlerForm.resources
+C:\Users\Windows 10\Desktop\Rsovie Tailor Shop Appointment and Management System Z\obj\Debug\net6.0-windows\Rsovie_Tailor_Shop_Appointment_and_Management_System_Z.MainForms.AdminForm.resources
+C:\Users\Windows 10\Desktop\Rsovie Tailor Shop Appointment and Management System Z\obj\Debug\net6.0-windows\Rsovie_Tailor_Shop_Appointment_and_Management_System_Z.AdminForms.AppointmentsForm.resources
+C:\Users\Windows 10\Desktop\Rsovie Tailor Shop Appointment and Management System Z\obj\Debug\net6.0-windows\Rsovie_Tailor_Shop_Appointment_and_Management_System_Z.AdminForms.DashboardForm.resources
+C:\Users\Windows 10\Desktop\Rsovie Tailor Shop Appointment and Management System Z\obj\Debug\net6.0-windows\Rsovie_Tailor_Shop_Appointment_and_Management_System_Z.AdminForms.FinishedAppointmentsForm.resources
+C:\Users\Windows 10\Desktop\Rsovie Tailor Shop Appointment and Management System Z\obj\Debug\net6.0-windows\Rsovie_Tailor_Shop_Appointment_and_Management_System_Z.AdminForms.PaymentsForm.resources
+C:\Users\Windows 10\Desktop\Rsovie Tailor Shop Appointment and Management System Z\obj\Debug\net6.0-windows\Rsovie_Tailor_Shop_Appointment_and_Management_System_Z.AdminForms.ScheduleForm.resources
+C:\Users\Windows 10\Desktop\Rsovie Tailor Shop Appointment and Management System Z\obj\Debug\net6.0-windows\Rsovie_Tailor_Shop_Appointment_and_Management_System_Z.ScheduleManagementForms.ScheduleForm.resources
+C:\Users\Windows 10\Desktop\Rsovie Tailor Shop Appointment and Management System Z\bin\Debug\net6.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\Windows 10\Desktop\Rsovie Tailor Shop Appointment and Management System Z\bin\Debug\net6.0-windows\WinForms.DataVisualization.dll
