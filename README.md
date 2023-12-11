@@ -1,6 +1,4 @@
-# Rsovie-Tailor-Shop-Appointment-and-Management-System-Z
-
-# ACP Project 
+# Rsovie Tailor Shop Appointment and Management System 
 
 # Members: 
 # Laylo, John Vincent G.
